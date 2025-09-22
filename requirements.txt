@@ -1,0 +1,10 @@
+gymnasium==1.1.1
+matplotlib==3.9.4
+numpy==2.0.2
+panda-gym==3.0.7
+pybullet==3.2.7
+scikit-learn==1.6.1
+scipy==1.13.1
+torch==2.8.0
+torchvision==0.23.0
+tqdm==4.67.1
